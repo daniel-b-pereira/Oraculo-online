@@ -2,7 +2,7 @@
 
 **O que é isso?**
 
-Um oráculo online, mas sem aquela vibe de bola de cristal fumando! ✨ Aqui, você pode tirar suas dúvidas e receber insights através das cartas do tarot. É como ter um guia espiritual no seu bolso (ou melhor, na sua tela).
+Um oráculo online, mas sem aquela vibe de bola de cristal. Aqui, você pode tirar suas dúvidas e receber insights através das cartas do tarot. É como ter um guia espiritual no seu bolso (ou melhor, na sua tela).
 
 **Como funciona a mágica?**
 
