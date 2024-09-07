@@ -16,3 +16,6 @@ Um oráculo online, mas sem aquela vibe de bola de cristal. Aqui, você pode tir
 * **Divirta-se:** A ideia é se conectar com sua intuição e ter um momento de reflexão.
 
 **Vamos juntos desvendar os mistérios do universo!** ✨
+
+**Para acessar, clique em:**
+https://oraculo-online.vercel.app/
